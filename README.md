@@ -11,7 +11,7 @@
 
 ### card-component:
 - [Demo](https://card-component-dpix.vercel.app/)
-- [Source code](https://card-component-dpix.vercel.app/) 
+- [Source code](https://github.com/tsiestova/card-component2) 
 
 ### landing-page:
 - [Demo](https://landing-page-2ce6alca2-tsiestova.vercel.app/)
