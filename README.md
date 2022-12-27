@@ -1,5 +1,5 @@
 
-### Links
+### Projects
 
 - 3-column-card: [Demo](https://3-column-card-eta.vercel.app/)
 - order-summary-component: [Demo](https://order-summary-component-puce-alpha.vercel.app/)
