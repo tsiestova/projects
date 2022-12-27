@@ -10,7 +10,7 @@
 - [Source code](https://github.com/tsiestova/order-summary-component)
 
 ### card-component:
-- [Demo](https://3-column-card-eta.vercel.app/)
+- [Demo](https://card-component-dpix.vercel.app/)
 - [Source code](https://card-component-dpix.vercel.app/) 
 
 ### landing-page:
