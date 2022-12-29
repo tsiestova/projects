@@ -13,9 +13,11 @@
 - [Demo](https://card-component-dpix.vercel.app/)
 - [Source code](https://github.com/tsiestova/card-component2) 
 
+### profile-card
+- [Demo](https://profile-card-six-steel.vercel.app/)
+- [Source code](https://github.com/tsiestova/profile-card)
+
 ### landing-page:
 - [Demo](https://landing-page-2ce6alca2-tsiestova.vercel.app/)
 - [Source code](https://github.com/tsiestova/landing-page)
- 
-
  
