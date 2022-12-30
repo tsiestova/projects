@@ -17,6 +17,10 @@
 - [Demo](https://profile-card-six-steel.vercel.app/)
 - [Source code](https://github.com/tsiestova/profile-card)
 
+### single-price-component 
+-[Demo](https://single-price-component-f67elp83z-tsiestova.vercel.app/) 
+-[Source code](https://github.com/tsiestova/single-price-component)
+ 
 ### landing-page:
 - [Demo](https://landing-page-2ce6alca2-tsiestova.vercel.app/)
 - [Source code](https://github.com/tsiestova/landing-page)
