@@ -22,6 +22,6 @@
 -[Source code](https://github.com/tsiestova/single-price-component)
  
 ### landing-page:
-- [Demo](https://landing-page-2ce6alca2-tsiestova.vercel.app/)
+- [Demo](https://landing-page-2ce6alca2-tsiestova.vercel.app/)  
 - [Source code](https://github.com/tsiestova/landing-page)
  
