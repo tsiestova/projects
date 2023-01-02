@@ -31,5 +31,5 @@
 - 
 ### landing-page2:
 - [Demo](https://landing-page2-rose.vercel.app/)
-- [Source code](https://landing-page2-rose.vercel.app/)
+- [Source code](https://github.com/tsiestova/landing-page2)
   
