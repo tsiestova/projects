@@ -28,4 +28,8 @@
 ### landing-page:
 - [Demo](https://landing-page-2ce6alca2-tsiestova.vercel.app/)  
 - [Source code](https://github.com/tsiestova/landing-page)
- 
+- 
+### landing-page2:
+- [Demo](https://landing-page2-rose.vercel.app/)
+- [Source code](https://landing-page2-rose.vercel.app/)
+  
