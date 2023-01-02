@@ -18,9 +18,13 @@
 - [Source code](https://github.com/tsiestova/profile-card)
 
 ### single-price-component 
--[Demo](https://single-price-component-f67elp83z-tsiestova.vercel.app/) 
--[Source code](https://github.com/tsiestova/single-price-component)
- 
+- [Demo](https://single-price-component-f67elp83z-tsiestova.vercel.app/) 
+- [Source code](https://github.com/tsiestova/single-price-component)
+
+### stats-preview-card
+- [Demo](https://stats-preview-card-tan.vercel.app/) 
+- [Source code](https://github.com/tsiestova/stats-preview-card)
+
 ### landing-page:
 - [Demo](https://landing-page-2ce6alca2-tsiestova.vercel.app/)  
 - [Source code](https://github.com/tsiestova/landing-page)
