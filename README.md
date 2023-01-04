@@ -25,6 +25,10 @@
 - [Demo](https://stats-preview-card-tan.vercel.app/) 
 - [Source code](https://github.com/tsiestova/stats-preview-card)
 
+### social-proof-section
+- [Demo](https://social-proof-section-two-beta.vercel.app/)
+- [Source code](https://github.com/tsiestova/social-proof-section)
+
 ### landing-page:
 - [Demo](https://landing-page-2ce6alca2-tsiestova.vercel.app/)  
 - [Source code](https://github.com/tsiestova/landing-page)
