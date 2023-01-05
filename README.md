@@ -29,6 +29,10 @@
 - [Demo](https://social-proof-section-two-beta.vercel.app/)
 - [Source code](https://github.com/tsiestova/social-proof-section)
 
+### four-card-section 
+- [Demo](https://four-card-section-coral.vercel.app/)
+- [Source code](https://github.com/tsiestova/four-card-section) 
+
 ### landing-page:
 - [Demo](https://landing-page-2ce6alca2-tsiestova.vercel.app/)  
 - [Source code](https://github.com/tsiestova/landing-page)
