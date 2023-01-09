@@ -41,3 +41,6 @@
 - [Demo](https://landing-page2-rose.vercel.app/)
 - [Source code](https://github.com/tsiestova/landing-page2)
   
+### equalizer-landing-page:
+- [Demo](https://equalizer-landing-page-pink.vercel.app/)
+- [Source code](https://github.com/tsiestova/equalizer-landing-page)
