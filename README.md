@@ -44,3 +44,7 @@
 ### equalizer-landing-page:
 - [Demo](https://equalizer-landing-page-pink.vercel.app/)
 - [Source code](https://github.com/tsiestova/equalizer-landing-page)
+
+### meet-landing-page:
+- [Demo](https://meet-landing-page-opal.vercel.app/)
+- [Source code](https://github.com/tsiestova/meet-landing-page)
