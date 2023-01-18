@@ -48,3 +48,7 @@
 ### meet-landing-page:
 - [Demo](https://meet-landing-page-opal.vercel.app/)
 - [Source code](https://github.com/tsiestova/meet-landing-page)
+ 
+### rating-component:
+- [Demo](https://rating-component-orcin.vercel.app/)
+- [Source code](https://github.com/tsiestova/rating-component)
