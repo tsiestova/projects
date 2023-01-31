@@ -1,6 +1,10 @@
 
 ### Projects
 
+### faq-accordion-card
+- [Demo](https://faq-accordion-card-lake-tau.vercel.app/) 
+- [Source code](https://github.com/tsiestova/faq-accordion-card)
+- 
 ### 3-column-card: 
 - [Demo](https://3-column-card-eta.vercel.app/)
 - [Source code](https://github.com/tsiestova/3-column-card)
@@ -56,3 +60,7 @@
 ### article-preview-component:
 - [Demo](https://article-preview-component-seven-orpin.vercel.app/)
 - [Source code](https://github.com/tsiestova/article-preview-component)
+- 
+### pod-request-land-page 
+- [Demo](https://pod-request-land-page.vercel.app/) 
+- [Source code](https://github.com/tsiestova/pod-request-land-page)
