@@ -8,7 +8,7 @@
 ### 3-column-card: 
 - [Demo](https://3-column-card-eta.vercel.app/)
 - [Source code](https://github.com/tsiestova/3-column-card)
-
+ 
 ### order-summary-component:
 - [Demo](https://order-summary-component-puce-alpha.vercel.app/)
 - [Source code](https://github.com/tsiestova/order-summary-component)
@@ -69,11 +69,19 @@
 - [Demo](https://testimonials-grid-section-ecru-five.vercel.app/) 
 - [Source code](https://github.com/tsiestova/testimonials-grid-section)
 
-
 ### base-apparel
 - [Demo](https://base-apparel-nine-bay.vercel.app/)
 - [Source code](https://github.com/tsiestova/base-apparel)
 
+### intro-component-with-sign-up-form
+- [Demo](https://intro-component-with-sign-up-form-5sm60qzdx-tsiestova.vercel.app/)
+- [Source code](https://github.com/tsiestova/intro-component-with-sign-up-form)
+
+### suite-landing-page
+- [Demo](https://suite-landing-page-kappa.vercel.app/)
+- [Source code](https://github.com/tsiestova/intro-component-with-sign-up-form)
 
 - [CV](https://www.canva.com/design/DAFDGU2Fk0w/-YxgCZJ0S_ezhXcvbzRt2g/view?utm_content=DAFDGU2Fk0w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - edit (https://www.canva.com/design/DAFDGU2Fk0w/-YxgCZJ0S_ezhXcvbzRt2g/edit?category=tACZCki4tbY)
+
+(19)
