@@ -87,10 +87,10 @@
 
 ### suite-landing-page
 - [Demo](https://suite-landing-page-kappa.vercel.app/)
-- [Source code](https://github.com/tsiestova/intro-component-with-sign-up-form)
+- [Source code](https://github.com/tsiestova/suite-landing-page) 
 
 ### clipboard-landing-page
-- [Demo](https://clipboard-landing-page-neon.vercel.app/)
+- [Demo](https://clipboard-landing-page-neon.vercel.app/) 
 - [Source code](https://github.com/tsiestova/clipboard-landing-page) 
 
 ### landing-page-with-alternating-feature-blocks
