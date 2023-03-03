@@ -1,12 +1,16 @@
 
 ### Projects
 
+### results-summary-component 
+- [Demo](https://results-summary-component-three.vercel.app/)
+- [Source code](https://github.com/tsiestova/results-summary-component)
+
 ### faq-accordion-card
 - [Demo](https://faq-accordion-card-lake-tau.vercel.app/) 
 - [Source code](https://github.com/tsiestova/faq-accordion-card)
-- 
+
 ### 3-column-card: 
-- [Demo](https://3-column-card-eta.vercel.app/)
+- [Demo](https://3-column-card-eta.vercel.app/) 
 - [Source code](https://github.com/tsiestova/3-column-card)
  
 ### order-summary-component:
@@ -36,6 +40,10 @@
 ### four-card-section 
 - [Demo](https://four-card-section-coral.vercel.app/)
 - [Source code](https://github.com/tsiestova/four-card-section) 
+
+### ping-coming-soon-page 
+- [Demo](https://ping-coming-soon-page-ruddy.vercel.app/)
+- [Source code](https://github.com/tsiestova/ping-coming-soon-page) 
 
 ### landing-page:
 - [Demo](https://landing-page-2ce6alca2-tsiestova.vercel.app/)  
@@ -81,7 +89,16 @@
 - [Demo](https://suite-landing-page-kappa.vercel.app/)
 - [Source code](https://github.com/tsiestova/intro-component-with-sign-up-form)
 
+### clipboard-landing-page
+- [Demo](https://clipboard-landing-page-neon.vercel.app/)
+- [Source code](https://github.com/tsiestova/clipboard-landing-page) 
+
+### landing-page-with-alternating-feature-blocks
+- [Demo](https://landing-page-with-alternating-feature-blocks.vercel.app/)
+- [Source code](https://github.com/tsiestova/landing-page-with-alternating-feature-blocks)
+ 
+
+
 - [CV](https://www.canva.com/design/DAFDGU2Fk0w/-YxgCZJ0S_ezhXcvbzRt2g/view?utm_content=DAFDGU2Fk0w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - [edit](https://www.canva.com/design/DAFDGU2Fk0w/-YxgCZJ0S_ezhXcvbzRt2g/edit?category=tACZCki4tbY)
 
-(19)
