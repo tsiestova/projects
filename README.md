@@ -96,7 +96,7 @@
 ### landing-page-with-alternating-feature-blocks
 - [Demo](https://landing-page-with-alternating-feature-blocks.vercel.app/)
 - [Source code](https://github.com/tsiestova/landing-page-with-alternating-feature-blocks)
- 
+  
 
 
 - [CV](https://www.canva.com/design/DAFDGU2Fk0w/-YxgCZJ0S_ezhXcvbzRt2g/view?utm_content=DAFDGU2Fk0w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
