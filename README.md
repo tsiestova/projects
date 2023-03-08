@@ -99,6 +99,4 @@
   
 
 
-- [CV](https://www.canva.com/design/DAFDGU2Fk0w/-YxgCZJ0S_ezhXcvbzRt2g/view?utm_content=DAFDGU2Fk0w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-- [edit](https://www.canva.com/design/DAFDGU2Fk0w/-YxgCZJ0S_ezhXcvbzRt2g/edit?category=tACZCki4tbY)
 
