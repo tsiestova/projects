@@ -96,7 +96,13 @@
 ### landing-page-with-alternating-feature-blocks
 - [Demo](https://landing-page-with-alternating-feature-blocks.vercel.app/)
 - [Source code](https://github.com/tsiestova/landing-page-with-alternating-feature-blocks)
-  
 
+### tip-calculator-app
+- [Demo](https://calculator-app-one-omega.vercel.app/)
+- [Source code](https://github.com/tsiestova/tip-calculator-app) 
+
+### landing-page-3
+- [Demo](https://landing-page-3-kspg.vercel.app/)
+- [Source code](https://github.com/tsiestova/landing-page-3)  
 
 
