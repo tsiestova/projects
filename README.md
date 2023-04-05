@@ -109,3 +109,7 @@
 - [Demo](https://pre-launch-landing.vercel.app/)
 - [Source code](https://github.com/tsiestova/-pre-launch-landing)  
 
+### news-homepage
+- [Demo](https://pre-launch-landing.vercel.app/)
+- [Source code](https://news-homepage-ebon.vercel.app/)  
+
