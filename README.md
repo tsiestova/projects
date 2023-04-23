@@ -113,3 +113,6 @@
 - [Demo](https://pre-launch-landing.vercel.app/)
 - [Source code](https://news-homepage-ebon.vercel.app/)  
 
+### tip-calculator
+- [Demo](https://calculator-app-one-omega.vercel.app/) 
+- [Source code](https://github.com/tsiestova/tip-calculator-app)  
