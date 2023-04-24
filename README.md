@@ -115,4 +115,8 @@
 
 ### tip-calculator
 - [Demo](https://calculator-app-one-omega.vercel.app/) 
-- [Source code](https://github.com/tsiestova/tip-calculator-app)  
+- [Source code](https://github.com/tsiestova/tip-calculator-app)   
+
+### age-calculator 
+- [Demo](https://age-calculator-navy.vercel.app/)
+- [Source code](https://github.com/tsiestova/age-calculator)   
