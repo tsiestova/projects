@@ -121,6 +121,6 @@
 - [Demo](https://age-calculator-navy.vercel.app/)
 - [Source code](https://github.com/tsiestova/age-calculator)   
 - 
-### age-calculator
+### expenses-chart-component
 - [Demo](https://expenses-chart-component-three-omega.vercel.app/) 
 - [Source code](https://github.com/tsiestova/expenses-chart-component)   
