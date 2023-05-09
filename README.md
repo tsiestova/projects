@@ -120,7 +120,19 @@
 ### age-calculator 
 - [Demo](https://age-calculator-navy.vercel.app/)
 - [Source code](https://github.com/tsiestova/age-calculator)   
-- 
+
 ### expenses-chart-component
 - [Demo](https://expenses-chart-component-three-omega.vercel.app/) 
 - [Source code](https://github.com/tsiestova/expenses-chart-component)   
+
+### sunnyside-agency-landing-page 
+- [Demo](https://sunnyside-agency-landing-page-murex.vercel.app/)
+- [Source code](https://github.com/tsiestova/sunnyside-agency-landing-page) 
+ 
+### coding-bootcamp-testimonials-slider
+- [Demo](https://coding-bootcamp-testimonials-slider-kappa-eight.vercel.app/)
+- [Source code](https://github.com/tsiestova/coding-bootcamp-testimonials-slider) 
+
+### intro-section-with-dropdown
+- [Demo](https://intro-section-with-dropdown-olive.vercel.app/)
+- [Source code](https://github.com/tsiestova/intro-section-with-dropdown) 
